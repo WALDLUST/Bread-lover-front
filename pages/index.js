@@ -16,7 +16,7 @@ import locationselect from '../public/where_proto.png'
 export default function Home() {
 
   const handleClick = () => {
-    // 버튼 클릭 시 수행할 작업을 여기에 추가합니다.
+    // 버튼 클릭 시 수행할 작업을 여기에 
     console.log('Floating Button Clicked');
   };
 
